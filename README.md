@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add](https://your-solution-url.com)
+- Solution URL: [Fylo-data-storage](https://your-solution-url.com)
 - Live Site URL: (https://github.com/visavilwa1/fylo-data-storage)
 
 ## My process
@@ -44,4 +44,4 @@ Users should be able to:
 ## Author
 
 - Website - [visavilwa1](https://github.com/visavilwa1/fylo-data-storage)
-- Frontend Mentor - Visavilwa Daisy (https://www.frontendmentor.io/profile/visavilwa1)
+- Frontend Mentor -[Visavilwa Daisy](https://www.frontendmentor.io/profile/visavilwa1)
